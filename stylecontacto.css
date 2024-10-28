@@ -1,0 +1,87 @@
+:root{
+font-family: Arial, Helvetica;
+}
+
+body{
+background-color:#92f7ff ;
+}
+#titulo{
+text-align: center;
+color:#000;
+}
+
+#descripcion{
+color:#000;
+font-size: 18px;
+}
+#contenedor-1{
+width:100vw;
+height: 700px;
+background-image: url("./contacto/portada.jfif");
+background-repeat: no-repeat;
+background-size: cover;pg
+color:#fff;
+}
+
+#contenedor-2{
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+width:100vw;
+height: 400px;
+background-color:#8258FA;
+color:#fff;
+margin-top: 20px;
+margin-bottom:20px;
+}
+
+#contenedor-3{
+width:300px;
+height: 300px;
+background-color:#DF01D7;
+color:#fff;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+border-radius: 10px;
+background-image: url("./contacto/telefono.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+#contenedor-4{
+width:300px;
+height: 300px;
+background-color:#DF01D7;
+color:#fff;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+border-radius: 10px;
+background-image: url("./contacto/gmail.png");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#menu{
+text-align:center;
+background-color:#ff0059;
+}
+#lista-menu{
+display:flex;
+justify-content:center;
+gap:20px;
+color:#fff;
+padding-top:10px;
+padding-bottom:10px;
+list-style:none;
+}
+.menu-item{
+color:#fff;
+font-size: 18px;
+}
+.enlace-menu{
+text-decoration: none;
+{
+#telefono{
+text-align: center;
+color:#fff;
+
+#gmail{
+text-align: center;
+color:#fff;
